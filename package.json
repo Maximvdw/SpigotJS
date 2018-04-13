@@ -1,0 +1,15 @@
+{
+  "name": "spigotjs",
+  "version": "1.0.0",
+  "description": "SpigotMC.org Node.JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudscraper": "^1.5.0",
+    "jsdom": "^11.7.0"
+  }
+}
